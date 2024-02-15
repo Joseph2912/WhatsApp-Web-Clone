@@ -14,3 +14,5 @@ Tecnologías utilizadas:
 HTML5
 CSS3
 FontAwesome
+
+![Captura de pantalla](screenshot.png)
